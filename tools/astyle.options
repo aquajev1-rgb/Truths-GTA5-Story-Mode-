@@ -1,0 +1,10 @@
+--style=allman
+--indent=spaces=4
+--pad-oper
+--pad-header
+--unpad-paren
+--max-code-length=140
+--break-after-logical
+--suffix=none
+--mode=cs
+

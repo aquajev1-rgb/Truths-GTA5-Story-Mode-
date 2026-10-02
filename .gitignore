@@ -1,0 +1,32 @@
+# Game dependencies and build output (never redistribute loader binaries).
+*.dll
+*.asi
+*.exe
+*.pdb
+*.mdb
+*.zip
+build/
+dist/
+.vs/
+.idea/
+.vscode/
+__pycache__/
+
+# Local state, logs, credentials and screenshots.
+*.log
+*.ini
+*.tmp
+*.bak
+*.orig
+*.user
+*.suo
+.env
+.env.*
+*.pem
+*.key
+upload/
+attachments/
+screenshots/
+scripts/TruthStoryPlus/*
+!scripts/TruthStoryPlus/logo.png
+
